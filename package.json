@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "commander": "^11.0.0",
+    "superagent": "^8.0.9",
+    "web2025-5": "file:"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "name": "web2025-5",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
